@@ -1,2 +1,3 @@
 # PY4SA_Course
-Repository with a set of exercises for the course Python for Spatial Analysis 
+
+This Repository includes a set of exercises for the course Python for Spatial Analysis 
