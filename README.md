@@ -1,12 +1,12 @@
 # Python for Spatial Analysis - Intro
 
-This repository includes the practice exercises for the second part of the module of GG3209 Spatial Analysis with GIS at the University of St Andrews - School of Geography and Sustainable Development
+This repository includes the practice exercises for the second part of the module of GG3209 Spatial Analysis with GIS at the University of St Andrews - School of Geography and Sustainable Development.
 
 ---
 
-Dr Fernando Benitez-Paez
-University of St Andrews
-School of Geography and Sustainable Development - 
+Dr Fernando Benitez-Paez - 
+University of St Andrews - 
+School of Geography and Sustainable Development
 
 ---
 First Iteration 2023 v.1.0
@@ -22,7 +22,7 @@ First Iteration 2023 v.1.0
 
 1. Miniconda
 2. Mamba
-3. Install the yml file included, that integrated jypyter lab
+3. Install the .yml file included, that integrated jupyter lab and other tools
 4. GitHub account and git
    
 ## Contribute
