@@ -14,7 +14,7 @@ First Iteration 2023 v.1.0
 ## How to use this repo.
 
 1. Clone the repo.
-2. Install the pysa.yml, preferably using mamba
+2. Install the py4sa.yml, preferably using mamba
 3. Execute Jupyter lab
 4. Run the available notebooks
 
