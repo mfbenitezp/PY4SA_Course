@@ -17,3 +17,6 @@ view.htm
 #   git rm -r .ipynb_checkpoints/
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
+
+## Mac files
+.DS_Store
