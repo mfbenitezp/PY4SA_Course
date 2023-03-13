@@ -20,3 +20,6 @@ view.htm
 
 ## Mac files
 .DS_Store
+
+## Out folder
+data/out/*
