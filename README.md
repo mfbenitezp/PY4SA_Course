@@ -18,6 +18,16 @@ First Iteration 2023 v.1.0
 3. Execute Jupyter lab
 4. Run the available notebooks
 
+## How to install the py4sa environment
+
+1. Install mamba 
+   ```conda install mamba -n base -c conda-forge```
+2. Install the py4sa environment
+   ```mamba env create -f py4sa.yml```
+   ```conda env create -f py4sa.yml```
+3. activate py4sa environment
+   ```conda activate py4sa``` 
+
 ## Tools needed for this repo
 
 1. Miniconda
