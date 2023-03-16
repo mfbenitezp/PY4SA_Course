@@ -1,0 +1,10 @@
+city	country	pop	lat	lon	capital
+'Abasan al-Jadidah	Palestine	5629	31.31	34.34	0
+'Abasan al-Kabirah	Palestine	18999	31.32	34.35	0
+'Abdul Hakim	Pakistan	47788	30.55	72.11	0
+'Abdullah-as-Salam	Kuwait	21817	29.36	47.98	0
+'Abud	Palestine	2456	32.03	35.07	0
+'Abwein	Palestine	3434	32.03	35.2	0
+'Adadlay	Somalia	9198	9.77	44.65	0
+'Adale	Somalia	5492	2.75	46.3	0
+'Afak	Iraq	22706	32.07	45.26	0
