@@ -23,3 +23,5 @@ view.htm
 
 ## Out folder
 data/out/*
+cache*
+data/img/rasterio/*
