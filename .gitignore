@@ -23,5 +23,13 @@ view.htm
 
 ## Out folder
 data/out/*
+
+## Cache folder
 cache*
+
+## rasterio big files
 data/img/rasterio/*
+
+## assigment data folder
+
+data/Assignment/*
