@@ -39,4 +39,16 @@ First Iteration 2023 v.1.0
 
 If you have suggestions, comments or any issues, please feel free to reach out by opening an issue in this repo.
 
+## Acknowledgments
 
+This course has been inspired and adapted from multiple resources. 
+
+1. [Spatial Data Programming with Python](https://geobgu.xyz/py/index.html)
+2. [Earth Data Science - Use data open-source python](https://www.earthdatascience.org/courses/use-data-open-source-python)
+3. [Open Python for Geospatial Data Science](https://ckan.americaview.org/data/usgs_workforce_development/python.html)
+4. [PyGIS](https://pygis.io/docs/a_intro.html)
+5. [Python Programming for Data Science](https://www.tomasbeuzen.com/python-programming-for-data-science/README.html)
+6. [Python for Geospatial Analysis](https://www.tomasbeuzen.com/python-for-geospatial-analysis/README.html)
+7. [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
+8. [Geocomputation with Python](https://py.geocompx.org/)
+9. [GeoPython](https://geo-python-site.readthedocs.io/en/latest/)
